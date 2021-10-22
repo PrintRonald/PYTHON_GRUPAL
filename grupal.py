@@ -1,4 +1,4 @@
-
+#Este es un comentario realizado por Joao
 print('---Bienvenido a la base de datos proveedores/contacto/transacciones---')
 
 info_proveedor = {}
