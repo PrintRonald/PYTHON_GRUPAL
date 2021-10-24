@@ -1,6 +1,9 @@
 # Proyecto grupal python
 ## Este es un título 2
 
-Esto corresponde a un párrafo. Acá se debe describir el proyecto. 
+## integrantes del grupo:
 
-Estas modificaciones las estoy realizando desde la rama joao
+Marcos Toro
+Esteban Torres
+Neifer Goodson
+Ronald Madariaga
