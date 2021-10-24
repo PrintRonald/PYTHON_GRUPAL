@@ -3,7 +3,7 @@
 
 ## integrantes del grupo:
 
-Marcos Toro
-Esteban Torres
-Neifer Goodson
-Ronald Madariaga
+- Marcos Toro
+- Esteban Torres
+- Neifer Goodson
+- Ronald Madariaga
